@@ -1,0 +1,30 @@
+[
+    {
+        "name": "iPhone 16 Pro Max",
+        "price": "$1199",
+        "availableMoney": "$0",
+        "images": [
+            "images/iphone-16_1.jpg",
+            "images/iphone-16_2.jpg"
+        ]
+    },
+    {
+        "name": "AirPods Pro 2",
+        "price": "$249",
+        "availableMoney": "$0",
+        "images": [
+            "images/airpods1.png",
+            "images/airpods2.png"
+        ]
+    },
+    {
+        "name": "iPhone 16",
+        "price": "$2499",
+        "availableMoney": "$0",
+        "images": [
+            "images/MacBook_1.png",
+            "images/MacBook_2.png",
+            "images/MacBook_3.png"
+        ]
+    }
+]
